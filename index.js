@@ -10,4 +10,4 @@ client.on('message', (message) -> {
         message.reply('PONG!');
 });
 
-client.login(process.env.token);
+client.login(process.env.BOT_TOKEN);
