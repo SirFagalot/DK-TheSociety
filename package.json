@@ -1,6 +1,6 @@
 {
   "name": "TheSociety",
-  "version": "1.1.1",
+  "version": "0.0.0",
   "description": "Discord bot til TheSociety",
   "main": "index.js",
   "scripts": {
