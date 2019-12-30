@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 
-client.login("NjU1MjE1ODAxNzA3NjU5MzIx.XgmiLA.e9nSLmBvQiNHnx10_EOc6kHWyO4")
+client.login("NjU1MjE1ODAxNzA3NjU5MzIx.XgmiLA.e9nSLmBvQiNHnx10_EOc6kHWyO4");
 
 client.on('ready', () {
     console.log('Booted up!');
